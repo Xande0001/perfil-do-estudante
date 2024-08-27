@@ -18,7 +18,7 @@
     <div class="container-fluid">
       <a class="navbar-brand" href="./index.html">
        
-        <h1 class="m-0"><img class="d-block" src="./assets//logo-meteora.png" alt="Logo da loja Meteora"></h1>
+        <h1 class="m-0"><img class="d-block" src="./assets//logo-meteora.png" alt="Logprofrenatopereirao da loja Meteora"></h1>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -84,9 +84,9 @@
           alt="Modelo vestindo blusa rosa fluorescente, em fundo lilás">
       </div>
 
-      <div class="carousel-item">
+      <div class="carousel-item">a
         <img class="img-fluid d-md-none" src="./assets/Mobile/banner2-mobile.png"
-          alt="Modelo vestindo roupa preta e usando óculos escuro, em um fundo rosa.">
+          alt="Modelo Fiat uno , em um fundo rosa.">
         <img class="img-fluid d-none d-md-block d-xl-none" src="./assets/Tablet/banner2-tablet.png"
           alt="Modelo vestindo roupa preta e usando óculos escuro, em um fundo rosa.">
         <img class="img-fluid d-none d-xl-block" src="./assets/Desktop/banner2-desktop.png"
